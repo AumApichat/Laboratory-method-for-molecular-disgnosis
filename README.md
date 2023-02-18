@@ -1,1 +1,1 @@
-# Laboratory-method-for-molecular-disgnosis
+# Laboratory-method-for-molecular-diagnosis
